@@ -1,7 +1,12 @@
 package main
 
-import "fmt"
+var (
+	subscriptionID string
+	namespaceName  string
+	eventHubName   string
+	consumerGroup  string
+)
 
 func main() {
-	fmt.Println("Hello, World!")
+
 }
