@@ -9,6 +9,11 @@
 https://github.com/Azure-Samples/azure-sdk-for-go-samples/blob/main/sdk/resourcemanager/eventhub/eventhub/main.go
 see creds, new client, and hub
 
+#### Azure SDK for Go 
+https://docs.microsoft.com/en-us/azure/developer/go/overview
+
+https://pkg.go.dev/github.com/Azure/azure-sdk-for-go/sdk/messaging/azeventhubs
+
 
 #### Data Plane
 
